@@ -1,0 +1,33 @@
+*{
+    text-decoration: none;
+}
+.contenedor{
+    padding-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    width: 100%;
+    text-decoration: none;
+}
+.cards{
+    width: 18rem;
+}
+.card-header{
+    display: flex;
+    justify-content: center;
+    font-family: 'Secular One', sans-serif;
+    font-weight: 900;
+    color: #FF9100;
+    font-size: 20px;
+}
+.letra{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Secular One', sans-serif;
+    font-weight: 900;
+    font-size: 15px;
+    color: #FF9100;
+}

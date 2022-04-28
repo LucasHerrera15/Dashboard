@@ -1,0 +1,21 @@
+.SinDecoration{
+    text-decoration: none;
+}
+.logo{
+    width: 100px;
+}
+.contenedorNavBar{
+    background-color: #c8cfd5;
+    font-family: 'Secular One', sans-serif;
+    font-weight: 900;
+    color: #FF9100;
+}
+.inicio{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.Container{
+    display: flex !important;
+    justify-content: space-between !important;
+}
